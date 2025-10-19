@@ -208,7 +208,7 @@ footer {
   gap: 35px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 600px) {
   .container {
     width: 90%;
     margin: 0 auto;
